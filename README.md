@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineer** with a kn
 
 - 🔭 **Recent Experience**: I recently completed a **Software Engineering Internship at LinkedIn** on the Data Foundations Tools and Platform team. I worked on optimizing large-scale data pipelines using **Java, Scala, SQL**, and **Apache Airflow**.
 - 💡 I enjoy building efficient solutions to complex problems, especially in areas involving **data engineering**, **machine learning**, and **feature extraction**.
-- 🌱 Currently, I’m exploring **open-source projects** to further my learning and contribute to impactful global solutions.
+- 🌱 Currently, I’m exploring **open-source projects** to further enhance my learning and contribute to impactful global solutions.
 - 💼 **Leadership**: I’m the **Co-Founder** of **TakingControl**, where I’m focused on leadership and strategic initiatives, and I’ve previously held leadership roles in **Google Developer Student Clubs** and the **Rotaract Club**.
 
 ## 🎯 Key Projects & Hackathon Wins 
