@@ -17,7 +17,7 @@ I’m always looking for new challenges, which is why I’ve been an active part
 
 ## 🔗 Let's Connect
 
-- LinkedIn: [in/tejaswi](https://www.linkedin.com/in/tejaswi)
+- LinkedIn: [in/tejaswi](https://www.linkedin.com/in/tejaswi-tyagi/)
 - Email : tytejaswi2002@gmail.com
 
 Thanks for visiting! Feel free to check out my projects and collaborations, and let’s build something amazing together! 😊
