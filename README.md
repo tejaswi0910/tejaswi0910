@@ -21,3 +21,5 @@ I’m always looking for new challenges, which is why I’ve been an active part
 - Email : tytejaswi2002@gmail.com
 
 Thanks for visiting! Feel free to check out my projects and collaborations, and let’s build something amazing together! 😊
+
+[![An image of @tejaswi0910's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejaswi0910)](https://holopin.io/@tejaswi0910)
