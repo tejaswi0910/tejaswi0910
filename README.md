@@ -22,5 +22,3 @@ I’m always looking for new challenges, which is why I’ve been an active part
 
 Thanks for visiting! Feel free to check out my projects and collaborations, and let’s build something amazing together! 😊
 
-[![Tejaswi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejaswi0910)](https://github.com/tejaswi0910/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswi0910)](https://github.com/tejaswi0910/github-readme-stats)
