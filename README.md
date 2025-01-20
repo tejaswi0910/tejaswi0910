@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineer** with a kn
 
 I’m always looking for new challenges, which is why I’ve been an active participant and winner in numerous **hackathons** and **ideathons**.
 
-- 🚀 **Current Project**: Building a machine learning model for image-based feature extraction to solve data challenges in sectors like e-commerce.
+- 🚀 **Current Project**: Working on proposal of an algorithm for encrypting and decrypting of textual information to safeguard against post-quantum attacks
 
 ## 🔗 Let's Connect
 
